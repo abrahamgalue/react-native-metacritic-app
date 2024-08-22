@@ -1,25 +1,28 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Pressable } from 'react-native';
-
-const icon = require('./assets/icon.png')
+import { StatusBar } from "expo-status-bar";
+import { StyleSheet, View, Image, Text } from "react-native";
+import { getLatestGames } from "./lib/metacritic";
+import { useEffect, useState } from "react";
 
 export default function App() {
+  const [games, setGames] = useState(null);
+
+  useEffect(() => {
+    getLatestGames().then((games) => setGames(games));
+  }, []);
+
   return (
     <View style={styles.container}>
       <StatusBar style="light" />
-      <Pressable
-        onPress={() => {
-        }}
-        style={({ pressed }) => [
-          {
-            backgroundColor: pressed ? 'rgb(210, 230, 255)' : 'white',
-          },
-          styles.wrapperCustom,
-        ]}>
-        {({ pressed }) => (
-          <Text style={{ ...styles.text, fontSize: pressed ? 36 : 24 }}>{pressed ? 'Pressed!' : 'Press Me'}</Text>
-        )}
-      </Pressable>
+      {games.map((game) => (
+        <View key={game.slug} style={styles.card}>
+          <Image source={{ uri: game.image }} style={styles.image} />
+          <Text style={(styles.title, styles.text)}>{game.title}</Text>
+          <Text style={(styles.description, styles.text)}>
+            {game.description}
+          </Text>
+          <Text style={styles.score}>{game.score}</Text>
+        </View>
+      ))}
     </View>
   );
 }
@@ -27,11 +30,34 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#000',
-    alignItems: 'center',
-    justifyContent: 'center',
+    backgroundColor: "#000",
+    alignItems: "center",
+    justifyContent: "center",
   },
-  textColor: {
-    color: "#fff"
-  }
+  card: {
+    marginBottom: 10,
+  },
+  title: {
+    fontSize: 20,
+    fontWeight: "bold",
+    marginBottom: 10,
+  },
+  description: {
+    fontSize: 16,
+    color: "#eee",
+  },
+  score: {
+    fontSize: 20,
+    fontWeight: "bold",
+    color: "green",
+    marginTop: 10,
+  },
+  text: {
+    color: "#fff",
+  },
+  image: {
+    width: 107,
+    height: 147,
+    borderRadius: 10,
+  },
 });
