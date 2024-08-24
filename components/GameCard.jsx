@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { View, Image, Text, StyleSheet } from 'react-native'
 
 export function GameCard({ game }) {
