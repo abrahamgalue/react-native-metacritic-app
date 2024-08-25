@@ -1,15 +1,26 @@
 import { View, Image, Text, StyleSheet, Animated } from 'react-native'
 import { useRef, useEffect } from 'react'
+import { Score } from './Score'
 
 export function GameCard({ game }) {
   return (
-    <View key={game.slug} style={styles.card}>
+    <View
+      key={game.slug}
+      className={'flex-row bg-gray-500/10 p-4 rounded-xl gap-4 mb-10'}
+    >
       <Image source={{ uri: game.image }} style={styles.image} />
-      <Text style={{ ...styles.title, ...styles.text }}>{game.title}</Text>
-      <Text style={styles.score}>{game.score}</Text>
-      <Text style={{ ...styles.description, ...styles.text }}>
-        {game.description}
-      </Text>
+      <View>
+        <Text className={'mb-1'} style={{ ...styles.title, ...styles.text }}>
+          {game.title}
+        </Text>
+        <Score score={game.score} maxScore={100} />
+        <Text
+          className={'mt-2'}
+          style={{ ...styles.description, ...styles.text }}
+        >
+          {game.description.slice(0, 100)}...
+        </Text>
+      </View>
     </View>
   )
 }
