@@ -17,15 +17,17 @@ export function Main() {
 
   return (
     <View style={{ paddingTop: insets.top, paddingBottom: insets.bottom }}>
-      <View style={{ marginBottom: 20 }}>
-        <Logo />
-      </View>
+      <View className="flex-row justify-between items-center mb-4 mx-2">
+        <View>
+          <Logo />
+        </View>
 
-      <Link asChild href="/about" className="text-blue-400 text-xl">
-        <Pressable>
-          <CircleInfoIcon />
-        </Pressable>
-      </Link>
+        <Link asChild href="/about" className="text-blue-400 text-xl">
+          <Pressable>
+            <CircleInfoIcon />
+          </Pressable>
+        </Link>
+      </View>
 
       {games.length === 0 ? (
         <ActivityIndicator size={'large'} />
