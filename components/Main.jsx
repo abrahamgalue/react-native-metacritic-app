@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { getLatestGames } from '../lib/metacritic'
-import { View, ActivityIndicator, FlatList } from 'react-native'
+import { View, ActivityIndicator, FlatList, Pressable } from 'react-native'
 import { Logo } from './Logo'
 import { Link } from 'expo-router'
+import { CircleInfoIcon } from './Icons'
 import { AnimatedGameCard } from './GameCard'
 
 export function Main() {
@@ -20,8 +21,10 @@ export function Main() {
         <Logo />
       </View>
 
-      <Link href="/about" className="text-blue-400 text-xl">
-        Ir al about
+      <Link asChild href="/about" className="text-blue-400 text-xl">
+        <Pressable>
+          <CircleInfoIcon />
+        </Pressable>
       </Link>
 
       {games.length === 0 ? (
