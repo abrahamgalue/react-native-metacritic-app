@@ -1,19 +1,15 @@
-import { Screen } from '../components/Screen'
 import { Link, Stack } from 'expo-router'
-import { Pressable } from 'react-native'
+import { View, Pressable } from 'react-native'
 import { Logo } from '../components/Logo'
 import { CircleInfoIcon } from '../components/Icons'
 
 export default function Layout() {
   return (
-    <Screen>
+    <View className="flex-1 bg-black">
       <Stack
         screenOptions={{
           headerStyle: {
             backgroundColor: 'black',
-          },
-          contentStyle: {
-            backgroundColor: '#000',
           },
           headerTitle: '',
           headerLeft: () => <Logo />,
@@ -26,6 +22,6 @@ export default function Layout() {
           ),
         }}
       />
-    </Screen>
+    </View>
   )
 }
