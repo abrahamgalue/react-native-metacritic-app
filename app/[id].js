@@ -1,4 +1,5 @@
-import { Link } from 'expo-router'
+import { Screen } from '../components/Screen'
+import { Link, Stack } from 'expo-router'
 import { Text, View } from 'react-native'
 import { useLocalSearchParams } from 'expo-router'
 
@@ -6,8 +7,16 @@ export default function Detail() {
   const { id } = useLocalSearchParams()
 
   return (
-    <View>
-      <View className="flex-1 justify-center items-center">
+    <Screen>
+      <Stack.Screen
+        options={{
+          headerLeft: () => {},
+          headerRight: () => {},
+          headerTintColor: '#ffbd40',
+          headerTitle: 'The legend of zelda: breath of the wild',
+        }}
+      />
+      <View>
         <Text className="text-white font-bold mb-8 text-2xl">
           Detalle del juego {id}
         </Text>
@@ -15,6 +24,6 @@ export default function Detail() {
           Volver atras
         </Link>
       </View>
-    </View>
+    </Screen>
   )
 }
