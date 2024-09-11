@@ -10,29 +10,44 @@ import { useRef, useEffect } from 'react'
 import { Score } from './Score'
 import { Link } from 'expo-router'
 import { styled } from 'nativewind'
+import { months } from '../lib/utils'
 
 const StyledPressable = styled(Pressable)
 
-export function GameCard({ game }) {
+export function GameCard({ game, index }) {
+  const [year, month, day] = game.releaseDate.split('-')
+  const formattedMonth = months[Number(month)]
+
   return (
     <Link asChild href={`/${game.slug}`}>
-      <StyledPressable className="active:opacity-70 border border-black active:border-white/50 mb-2 bg-gray-500/10 rounded-xl p-4">
-        <View key={game.slug} className={'flex-row gap-4 mb-10'}>
+      <StyledPressable
+        className={`border active:border-white/50 mb-2 bg-black rounded-xl p-4 ${index === 0 ? 'mt-2' : null}`}
+      >
+        <View key={game.slug} className={'flex-row gap-4'}>
           <Image source={{ uri: game.image }} style={styles.image} />
           <View className="flex-shrink">
             <Text
               className={'mb-1'}
               style={{ ...styles.title, ...styles.text }}
             >
-              {game.title}
+              {index + 1}. {game.title}
+            </Text>
+            <View className="flex-row">
+              <Text style={styles.date} className={'text-white/80'}>
+                {formattedMonth} {day}, {year}
+              </Text>
+              <Text style={styles.date} className={'text-white/80'}>
+                {' '}
+                •{' '}
+              </Text>
+              <Text style={styles.date} className={'text-white/80'}>
+                Rated {game.rating}
+              </Text>
+            </View>
+            <Text className={'my-2'} style={{ ...styles.description }}>
+              {game.description.slice(0, 57)}...
             </Text>
             <Score score={game.score} maxScore={100} />
-            <Text
-              className={'mt-2'}
-              style={{ ...styles.description, ...styles.text }}
-            >
-              {game.description.slice(0, 100)}...
-            </Text>
           </View>
         </View>
       </StyledPressable>
@@ -54,7 +69,7 @@ export function AnimatedGameCard({ game, index }) {
 
   return (
     <Animated.View style={{ opacity }}>
-      <GameCard game={game} />
+      <GameCard game={game} index={index} />
     </Animated.View>
   )
 }
@@ -64,26 +79,28 @@ const styles = StyleSheet.create({
     marginBottom: 42,
   },
   title: {
-    fontSize: 20,
     fontWeight: 'bold',
     marginTop: 10,
   },
+  date: {
+    color: 'rgba(255, 255, 255, 0.8)',
+    fontSize: 10,
+  },
   description: {
-    fontSize: 16,
-    color: '#eee',
+    color: 'rgba(255, 255, 255, 0.8)',
+    fontSize: 14,
   },
   score: {
-    fontSize: 20,
-    fontWeight: 'bold',
     color: 'green',
+    fontWeight: 'bold',
     marginBottom: 10,
   },
   text: {
     color: '#fff',
   },
   image: {
-    width: 107,
-    height: 147,
     borderRadius: 10,
+    height: 147,
+    width: 107,
   },
 })

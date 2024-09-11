@@ -5,7 +5,7 @@ import { CircleInfoIcon } from '../components/Icons'
 
 export default function Layout() {
   return (
-    <View className="flex-1 bg-black">
+    <View className="flex-1 bg-[#111]">
       <Stack
         screenOptions={{
           headerStyle: {
