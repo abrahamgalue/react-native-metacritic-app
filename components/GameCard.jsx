@@ -21,7 +21,7 @@ export function GameCard({ game, index }) {
   return (
     <Link asChild href={`/${game.slug}`}>
       <StyledPressable
-        className={`border active:border-white/50 mb-2 bg-black rounded-xl p-4 ${index === 0 ? 'mt-2' : null}`}
+        className={`border active:border-white/50 mb-7 bg-black rounded-xl p-4 ${index === 0 ? 'mt-2' : null}`}
       >
         <View key={game.slug} className={'flex-row gap-4'}>
           <Image source={{ uri: game.image }} style={styles.image} />
