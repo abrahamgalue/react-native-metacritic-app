@@ -12,7 +12,13 @@ export default function Layout() {
             backgroundColor: 'black',
           },
           headerTitle: '',
-          headerLeft: () => <Logo />,
+          headerLeft: () => (
+            <Link asChild href="/">
+              <Pressable>
+                <Logo />
+              </Pressable>
+            </Link>
+          ),
           headerRight: () => (
             <Link asChild href="/about" className="text-blue-400 text-xl">
               <Pressable>
