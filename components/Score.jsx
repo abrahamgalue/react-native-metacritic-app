@@ -1,24 +1,21 @@
 import { View, Text } from 'react-native'
+import { getColors } from '../lib/utils'
 
-const getColors = ({ score, maxScore }) => {
-  const percentage = (score / maxScore) * 100
-
-  if (percentage < 40) return 'bg-[#ff6874]'
-  if (percentage < 65) return 'bg-[#ffbd3f]'
-  return 'bg-[#00ce7a]'
-}
-
-export function Score({ score, maxScore }) {
-  const className = getColors({ score, maxScore })
+export function Score({ score, maxScore, size }) {
+  const bgColor = getColors({ score, maxScore })
+  const fontSize = size === 'normal' ? 'text-xs' : 'text-[30px]'
+  const boxSize = size === 'normal' ? 'w-6 h-6' : 'w-16 h-16'
 
   return (
     <View className={'flex-row items-center'}>
       <View
-        className={`${className} w-6 h-6 rounded-sm justify-center items-center`}
+        className={`${bgColor} ${boxSize} rounded-md items-center justify-center`}
       >
-        <Text className={'text-xs font-black text-black'}>{score}</Text>
+        <Text className={`${fontSize} font-black text-black`}>{score}</Text>
       </View>
-      <Text className={'text-xs text-white/80 ml-3'}>Metascore</Text>
+      {size === 'normal' && (
+        <Text className={'text-xs text-white/80 ml-3'}>Metascore</Text>
+      )}
     </View>
   )
 }

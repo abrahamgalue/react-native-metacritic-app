@@ -1,14 +1,22 @@
 import { useLocalSearchParams } from 'expo-router'
-import { useEffect, useState } from 'react'
+import { useState, useEffect } from 'react'
+import { getColors, months } from '../lib/utils'
 import { getGameDetails } from '../lib/metacritic'
 import { Screen } from '../components/Screen'
 import { Stack } from 'expo-router'
 import { ActivityIndicator, Image, ScrollView, Text, View } from 'react-native'
-import { Score } from '../components/Score'
+import GameHero from '../components/GameHero'
+import GameSubTitle from '../components/GameSubTitle'
+import GamePlatforms from '../components/GamePlatforms'
 
 export default function Detail() {
   const { gameslug } = useLocalSearchParams()
   const [gameInfo, setGameInfo] = useState(null)
+  const bgRatingColor =
+    gameInfo !== null ? getColors(gameInfo.score, gameInfo.max) : ''
+  const [year, month, day] =
+    gameInfo !== null ? gameInfo.releaseDate?.split('-') : ''
+  const formattedMonth = gameInfo !== null ? months[Number(month)] : ''
 
   useEffect(() => {
     if (gameslug) {
@@ -31,16 +39,44 @@ export default function Detail() {
           <ActivityIndicator size={'large'} />
         ) : (
           <ScrollView>
-            <View className="justify-center items-center text-center">
-              <Image
-                className="mb-4 mt-24 rounded"
-                source={{ uri: gameInfo.img }}
-                style={{ width: 214, height: 294 }}
+            <View>
+              <View className={'items-center'}>
+                <Image
+                  className="my-6 rounded"
+                  source={{ uri: gameInfo.img }}
+                  style={{ width: 214, height: 294 }}
+                />
+              </View>
+              <GameHero
+                bgRatingColor={bgRatingColor}
+                rating={gameInfo.rating}
+                company={gameInfo.company}
               />
-              <Score score={gameInfo.score} maxScore={100} />
-              <Text className="text-white text-center font-bold text-xl">
+              <Text className="text-white font-bold text-4xl">
                 {gameInfo.title}
               </Text>
+              <Text className={'text-white mt-4'}>
+                <Text className={'font-bold'}>Released On: </Text>
+                {formattedMonth} {day}, {year}
+              </Text>
+              <GameSubTitle ttle={'All Platforms'} />
+              {gameInfo.platforms.map(
+                ({
+                  id,
+                  criticScoreSummary: { score, max, reviewCount },
+                  name,
+                }) => (
+                  <GamePlatforms
+                    key={id}
+                    score={score}
+                    max={max}
+                    platform={name}
+                    reviewCount={reviewCount}
+                  />
+                ),
+              )}
+              <GameSubTitle title={'Details'} />
+              <Text className={'text-white font-bold'}>Summary</Text>
               <Text className="text-white/70 mt-4 text-left mb-8 text-base">
                 {gameInfo.description}
               </Text>

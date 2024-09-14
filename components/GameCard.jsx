@@ -47,7 +47,7 @@ export function GameCard({ game, index }) {
             <Text className={'my-2'} style={{ ...styles.description }}>
               {game.description.slice(0, 57)}...
             </Text>
-            <Score score={game.score} maxScore={100} />
+            <Score score={game.score} maxScore={100} size={'normal'} />
           </View>
         </View>
       </StyledPressable>
