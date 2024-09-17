@@ -12,11 +12,11 @@ import GamePlatforms from '../components/GamePlatforms'
 export default function Detail() {
   const { gameslug } = useLocalSearchParams()
   const [gameInfo, setGameInfo] = useState(null)
-  const bgRatingColor =
-    gameInfo !== null ? getColors(gameInfo.score, gameInfo.max) : ''
-  const [year, month, day] =
-    gameInfo !== null ? gameInfo.releaseDate?.split('-') : ''
-  const formattedMonth = gameInfo !== null ? months[Number(month)] : ''
+  const bgRatingColor = gameInfo
+    ? getColors({ score: gameInfo.score, maxScore: gameInfo.maxScore })
+    : ''
+  const [year, month, day] = gameInfo ? gameInfo.releaseDate?.split('-') : ''
+  const formattedMonth = gameInfo ? months[Number(month)] : ''
 
   useEffect(() => {
     if (gameslug) {

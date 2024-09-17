@@ -9,7 +9,10 @@ export function Score({ score, maxScore, size }) {
   return (
     <View className={'flex-row items-center'}>
       <View
-        className={`${bgColor} ${boxSize} rounded-md items-center justify-center`}
+        style={{
+          backgroundColor: bgColor,
+        }}
+        className={`${boxSize} rounded-md items-center justify-center`}
       >
         <Text className={`${fontSize} font-black text-black`}>{score}</Text>
       </View>
