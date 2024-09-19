@@ -9,3 +9,11 @@ export const InfoIcon = (props) => {
     <MaterialIcons name="info-outline" size={24} color="black" {...props} />
   )
 }
+
+export const LightModeIcon = (props) => {
+  return <MaterialIcons name="light-mode" size={24} color="white" {...props} />
+}
+
+export const DarkModeIcon = (props) => {
+  return <MaterialIcons name="dark-mode" size={24} color="black" {...props} />
+}

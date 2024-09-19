@@ -39,7 +39,7 @@ export default function Detail() {
           <ActivityIndicator size={'large'} />
         ) : (
           <ScrollView>
-            <View>
+            <View className="px-2">
               <View className={'items-center'}>
                 <Image
                   className="my-6 rounded"
@@ -52,14 +52,14 @@ export default function Detail() {
                 rating={gameInfo.rating}
                 company={gameInfo.company}
               />
-              <Text className="text-white font-bold text-4xl">
+              <Text className="text-black dark:text-white font-bold text-4xl">
                 {gameInfo.title}
               </Text>
-              <Text className={'text-white mt-4'}>
+              <Text className={'text-black dark:text-white mt-4'}>
                 <Text className={'font-bold'}>Released On: </Text>
                 {formattedMonth} {day}, {year}
               </Text>
-              <GameSubTitle ttle={'All Platforms'} />
+              <GameSubTitle title={'All Platforms'} />
               {gameInfo.platforms.map(
                 ({
                   id,
@@ -76,8 +76,10 @@ export default function Detail() {
                 ),
               )}
               <GameSubTitle title={'Details'} />
-              <Text className={'text-white font-bold'}>Summary</Text>
-              <Text className="text-white/70 mt-4 text-left mb-8 text-base">
+              <Text className={'text-black dark:text-white font-bold'}>
+                Summary
+              </Text>
+              <Text className="text-black/70 dark:text-white/70 mt-4 text-left mb-8 text-base">
                 {gameInfo.description}
               </Text>
             </View>

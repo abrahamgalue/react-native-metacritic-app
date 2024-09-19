@@ -17,7 +17,9 @@ export function Score({ score, maxScore, size }) {
         <Text className={`${fontSize} font-black text-black`}>{score}</Text>
       </View>
       {size === 'normal' && (
-        <Text className={'text-xs text-white/80 ml-3'}>Metascore</Text>
+        <Text className={'text-xs text-black/80 dark:text-white/80 ml-3'}>
+          Metascore
+        </Text>
       )}
     </View>
   )

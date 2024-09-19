@@ -1,12 +1,15 @@
 import { Tabs } from 'expo-router'
 import { HomeIcon, InfoIcon } from '../../components/Icons'
+import { useColorScheme } from 'nativewind'
 
 export default function TabsLayout() {
+  const { colorScheme } = useColorScheme()
+
   return (
     <Tabs
       screenOptions={{
         tabBarStyle: {
-          backgroundColor: 'black',
+          backgroundColor: colorScheme === 'dark' ? 'black' : 'white',
         },
         tabBarActiveTintColor: '#ffbd40',
         headerShown: false,
