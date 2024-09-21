@@ -1,15 +1,15 @@
 import { Screen } from '../../components/Screen'
-import { ScrollView, Text, View } from 'react-native'
+import { ScrollView, Text, View, StyleSheet } from 'react-native'
 
 export default function About() {
   return (
     <Screen>
       <ScrollView>
-        <View className="px-4">
-          <Text className="dark:text-white text-center font-bold mb-8 mt-8 text-2xl">
+        <View style={styles.aboutContainer}>
+          <Text style={styles.aboutTitle} className="dark:text-white text-2xl">
             Sobre el proyecto
           </Text>
-          <Text className="dark:text-white/70 mb-4 text-base">
+          <Text style={styles.aboutDescription} className="dark:text-white/70">
             ¡Bienvenido a la app de los Juegos Mejor Calificados! Esta
             aplicación fue creada como un proyecto de aprendizaje usando React
             Native, con el objetivo de mostrar los videojuegos mejor valorados
@@ -17,7 +17,7 @@ export default function About() {
             esta app te ofrece una manera fácil de explorar los mejores juegos,
             calificados por críticos y jugadores por igual.
           </Text>
-          <Text className="dark:text-white/70 mb-4 text-base">
+          <Text style={styles.aboutDescription} className="dark:text-white/70">
             Esta app representa un hito en mi camino como desarrollador,
             combinando mi pasión por los videojuegos con mi deseo de aprender y
             crecer en el mundo del desarrollo de aplicaciones. ¡Espero que
@@ -28,3 +28,21 @@ export default function About() {
     </Screen>
   )
 }
+
+const styles = StyleSheet.create({
+  aboutContainer: {
+    paddingHorizontal: 16,
+  },
+  aboutTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+    lineHeight: 32,
+    marginVertical: 32,
+    textAlign: 'center',
+  },
+  aboutDescription: {
+    fontSize: 16,
+    lineHeight: 24,
+    marginBottom: 16,
+  },
+})

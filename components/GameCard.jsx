@@ -24,57 +24,42 @@ export function GameCard({ game, index }) {
   return (
     <Link asChild href={`/${game.slug}`}>
       <StyledPressable
-        style={{
-          shadowColor: '#171717',
-          ...Platform.select({
-            ios: {
-              shadowOffset: {
-                width: 0,
-                height: 2,
-              },
-              shadowOpacity: 0.2,
-              shadowRadius: 2,
-            },
-            android: {
-              elevation: 2,
-            },
-          }),
-        }}
-        className={`dark:border ${colorScheme === 'dark' && 'active:border-white/50'} bg-white mx-[2px] mb-7 dark:bg-black rounded-xl p-3 ${index === 0 && 'mt-2'}`}
+        style={styles.card}
+        className={`dark:border ${colorScheme === 'dark' && 'active:border-white/50'} bg-white dark:bg-black ${index === 0 && 'mt-2'}`}
       >
-        <View key={game.slug} className={'flex-row gap-4'}>
+        <View key={game.slug} style={styles.cardContainer}>
           <Image source={{ uri: game.image }} style={styles.image} />
-          <View className="flex-shrink">
+          <View style={styles.infoContainer}>
             <Text
-              className={'mb-1 text-black dark:text-white'}
-              style={{ ...styles.title }}
+              className={'text-black dark:text-white'}
+              style={{ ...styles.infoTitle }}
             >
               {index + 1}. {game.title}
             </Text>
-            <View className="flex-row">
+            <View style={styles.infoDateAndRateContainer}>
               <Text
-                style={styles.date}
+                style={styles.infoDateAndRate}
                 className={'text-black/80 dark:text-white/80'}
               >
                 {formattedMonth} {day}, {year}
               </Text>
               <Text
-                style={styles.date}
+                style={styles.infoDateAndRate}
                 className={'text-black/80 dark:text-white/80'}
               >
                 {' '}
                 •{' '}
               </Text>
               <Text
-                style={styles.date}
+                style={styles.infoDateAndRate}
                 className={'text-black/80 dark:text-white/80'}
               >
                 Rated {game.rating}
               </Text>
             </View>
             <Text
-              className={'my-2 text-black/80 dark:text-white/80'}
-              style={{ ...styles.description }}
+              className={'text-black/80 dark:text-white/80'}
+              style={{ ...styles.infoDescription }}
             >
               {game.description.slice(0, 57)}...
             </Text>
@@ -107,29 +92,50 @@ export function AnimatedGameCard({ game, index }) {
 
 const styles = StyleSheet.create({
   card: {
-    marginBottom: 42,
+    borderRadius: 12,
+    marginBottom: 28,
+    marginHorizontal: 2,
+    padding: 12,
+    shadowColor: '#171717',
+    ...Platform.select({
+      ios: {
+        shadowOffset: {
+          width: 0,
+          height: 2,
+        },
+        shadowOpacity: 0.2,
+        shadowRadius: 2,
+      },
+      android: {
+        elevation: 2,
+      },
+    }),
   },
-  title: {
-    fontWeight: 'bold',
-    marginTop: 10,
-  },
-  date: {
-    fontSize: 10,
-  },
-  description: {
-    fontSize: 14,
-  },
-  score: {
-    color: 'green',
-    fontWeight: 'bold',
-    marginBottom: 10,
-  },
-  text: {
-    color: '#fff',
+  cardContainer: {
+    flexDirection: 'row',
+    gap: 16,
   },
   image: {
     borderRadius: 10,
     height: 147,
     width: 107,
+  },
+  infoContainer: {
+    flexShrink: 1,
+  },
+  infoTitle: {
+    fontWeight: 'bold',
+    marginBottom: 4,
+    marginTop: 10,
+  },
+  infoDateAndRateContainer: {
+    flexDirection: 'row',
+  },
+  infoDateAndRate: {
+    fontSize: 10,
+  },
+  infoDescription: {
+    fontSize: 14,
+    marginVertical: 8,
   },
 })

@@ -1,4 +1,4 @@
-import { Text, View } from 'react-native'
+import { StyleSheet, Text, View } from 'react-native'
 import { useColorScheme } from 'nativewind'
 
 function SubTitleSlug({ title }) {
@@ -6,7 +6,7 @@ function SubTitleSlug({ title }) {
 
   return (
     <>
-      <Text className={'text-black dark:text-white font-bold text-2xl mt-8'}>
+      <Text style={styles.title} className={'text-black dark:text-white'}>
         {title}
       </Text>
       <View
@@ -15,13 +15,25 @@ function SubTitleSlug({ title }) {
             colorScheme === 'dark'
               ? 'rgba(255, 255, 255, 0.7)'
               : 'rgba(0, 0, 0, 0.7)',
-          borderBottomWidth: 1,
-          marginBottom: 24,
-          marginTop: 10,
+          ...styles.lineHeight,
         }}
       />
     </>
   )
 }
+
+const styles = StyleSheet.create({
+  title: {
+    fontSize: 24,
+    fontWeight: '700',
+    lineHeight: 32,
+    marginTop: 32,
+  },
+  lineHeight: {
+    borderBottomWidth: 1,
+    marginBottom: 24,
+    marginTop: 10,
+  },
+})
 
 export default SubTitleSlug

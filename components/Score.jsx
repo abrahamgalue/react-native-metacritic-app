@@ -1,4 +1,4 @@
-import { View, Text } from 'react-native'
+import { View, Text, StyleSheet } from 'react-native'
 import { getColors } from '../lib/utils'
 
 export function Score({ score, maxScore, size }) {
@@ -7,20 +7,47 @@ export function Score({ score, maxScore, size }) {
   const boxSize = size === 'normal' ? 'w-6 h-6' : 'w-16 h-16'
 
   return (
-    <View className={'flex-row items-center'}>
+    <View style={styles.scoreContainer}>
       <View
         style={{
           backgroundColor: bgColor,
+          ...styles.scoreBox,
         }}
-        className={`${boxSize} rounded-md items-center justify-center`}
+        className={`${boxSize}`}
       >
-        <Text className={`${fontSize} font-black text-black`}>{score}</Text>
+        <Text style={styles.scoreValue} className={`${fontSize}`}>
+          {score}
+        </Text>
       </View>
       {size === 'normal' && (
-        <Text className={'text-xs text-black/80 dark:text-white/80 ml-3'}>
+        <Text
+          style={styles.scoreText}
+          className={' text-black/80 dark:text-white/80'}
+        >
           Metascore
         </Text>
       )}
     </View>
   )
 }
+
+const styles = StyleSheet.create({
+  scoreContainer: {
+    alignItems: 'center',
+    flexDirection: 'row',
+  },
+  scoreBox: {
+    alignItems: 'center',
+    borderRadius: 6,
+    justifyContent: 'center',
+  },
+  scoreValue: {
+    color: '#000000',
+    fontWeight: '900',
+  },
+  scoreText: {
+    fontSize: 12,
+    ineHeight: 16,
+    marginLeft: 12,
+  },
+})

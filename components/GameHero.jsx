@@ -1,16 +1,33 @@
-import { View, Text } from 'react-native'
+import { View, Text, StyleSheet } from 'react-native'
 
 function GameHero({ bgRatingColor, rating, company }) {
   return (
-    <View
-      style={{ backgroundColor: bgRatingColor }}
-      className={`rounded-md flex-row items-center px-4 py-5 mb-5`}
-    >
-      <Text className="text-neutral-700 font-bold">{rating}</Text>
-      <Text className={'text-neutral-700 mx-1'}> • </Text>
-      <Text className="text-neutral-700 font-bold">{company}</Text>
+    <View style={{ backgroundColor: bgRatingColor, ...styles.container }}>
+      <Text style={{ ...styles.text, ...styles.textBold }}>{rating}</Text>
+      <Text style={{ ...styles.text, ...styles.symbolSpace }}> • </Text>
+      <Text style={{ ...styles.text, ...styles.textBold }}>{company}</Text>
     </View>
   )
 }
+
+const styles = StyleSheet.create({
+  container: {
+    alignItems: 'center',
+    borderRadius: 6,
+    flexDirection: 'row',
+    marginBottom: 20,
+    paddingHorizontal: 16,
+    paddingVertical: 20,
+  },
+  text: {
+    color: '#404040',
+  },
+  textBold: {
+    fontWeight: '700',
+  },
+  symbolSpace: {
+    marginHorizontal: 4,
+  },
+})
 
 export default GameHero
