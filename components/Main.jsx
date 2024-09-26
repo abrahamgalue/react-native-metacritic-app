@@ -10,7 +10,7 @@ import {
   Platform,
   Text,
 } from 'react-native'
-import { AnimatedGameCard } from './GameCard'
+import AnimatedGameCard from './GameCard'
 import GamesInfo from './GamesInfo'
 import GamesExcludedInfo from './GamesExcludedInfo'
 import { useColorScheme } from 'nativewind'
@@ -36,6 +36,8 @@ export function Main() {
         <ActivityIndicator size={'large'} />
       ) : (
         <FlatList
+          initialNumToRender={10}
+          maxToRenderPerBatch={10}
           ListHeaderComponent={
             <>
               <View style={styles.inputView}>

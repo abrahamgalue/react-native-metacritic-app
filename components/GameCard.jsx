@@ -13,10 +13,11 @@ import { Link } from 'expo-router'
 import { styled } from 'nativewind'
 import { months } from '../lib/utils'
 import { useColorScheme } from 'nativewind'
+import { memo } from 'react'
 
 const StyledPressable = styled(Pressable)
 
-export function GameCard({ game, index }) {
+function GameCard({ game, index }) {
   const { colorScheme } = useColorScheme()
   const [year, month, day] = game.releaseDate.split('-')
   const formattedMonth = months[Number(month)]
@@ -71,7 +72,7 @@ export function GameCard({ game, index }) {
   )
 }
 
-export function AnimatedGameCard({ game, index }) {
+function AnimatedGameCard({ game, index }) {
   const opacity = useRef(new Animated.Value(0)).current
 
   useEffect(() => {
@@ -89,6 +90,8 @@ export function AnimatedGameCard({ game, index }) {
     </Animated.View>
   )
 }
+
+export default memo(AnimatedGameCard)
 
 const styles = StyleSheet.create({
   card: {
