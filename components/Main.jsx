@@ -1,22 +1,14 @@
 import { useState, useEffect } from 'react'
 import { getLatestGames } from '../lib/metacritic'
 import { Screen } from './Screen'
-import {
-  ActivityIndicator,
-  FlatList,
-  StyleSheet,
-  TextInput,
-  View,
-  Platform,
-  Text,
-} from 'react-native'
-import AnimatedGameCard from './GameCard'
+import { ActivityIndicator, FlatList, StyleSheet, View } from 'react-native'
+import GamesSearch from './GamesSearch'
 import GamesInfo from './GamesInfo'
+import AnimatedGameCard from './GameCard'
 import GamesExcludedInfo from './GamesExcludedInfo'
-import { useColorScheme } from 'nativewind'
+import GamesEmptyState from './GamesEmptyState'
 
 export function Main() {
-  const { colorScheme } = useColorScheme()
   const [games, setGames] = useState([])
   const [text, setText] = useState('')
 
@@ -24,52 +16,38 @@ export function Main() {
     getLatestGames().then((games) => setGames(games))
   }, [])
 
+  function handleChangeText(text) {
+    setText(text)
+  }
+
   const sortedGames = text
     ? [...games].filter((game) =>
         game.title.toLowerCase().includes(text.toLowerCase()),
       )
     : games
+  const noGames = sortedGames.length === 0
 
   return (
     <Screen>
-      {sortedGames.length === 0 && text === '' ? (
-        <ActivityIndicator size={'large'} />
+      {noGames && text === '' ? (
+        <View style={styles.loadingIndicator}>
+          <ActivityIndicator size={'large'} />
+        </View>
       ) : (
         <FlatList
           initialNumToRender={10}
           maxToRenderPerBatch={10}
           ListHeaderComponent={
             <>
-              <View style={styles.inputView}>
-                <TextInput
-                  className={'bg-white dark:bg-black dark:text-white'}
-                  cursorColor={'#ffbd40'}
-                  onChangeText={(newText) => setText(newText)}
-                  placeholder="Breath Of The Wild, Super Mario Odyssey..."
-                  placeholderTextColor={`${colorScheme === 'dark' ? '#eee' : '#bbb'}`}
-                  selectionColor={'#ffbd40'}
-                  style={{ ...styles.input }}
-                />
-              </View>
-              {sortedGames.length === 0 && text !== '' ? (
-                <View style={styles.noResultsView}>
-                  <Text
-                    className={'text-black dark:text-white'}
-                    style={styles.noResultsText}
-                  >
-                    Sorry, we don't have this video game, try searching with
-                    another one.
-                  </Text>
-                </View>
+              <GamesSearch onChangeText={handleChangeText} />
+              {noGames && text !== '' ? (
+                <GamesEmptyState />
               ) : (
                 <GamesInfo numOfGames={sortedGames.length} />
               )}
             </>
           }
-          // Solo mostrar GamesExcludedInfo si hay resultados
-          ListFooterComponent={
-            sortedGames.length !== 0 && <GamesExcludedInfo />
-          }
+          ListFooterComponent={!noGames && <GamesExcludedInfo />}
           style={styles.list}
           data={sortedGames}
           keyExtractor={(game) => game.slug}
@@ -86,36 +64,9 @@ const styles = StyleSheet.create({
   list: {
     paddingHorizontal: 8,
   },
-  inputView: {
-    shadowColor: '#171717',
-    ...Platform.select({
-      ios: {
-        shadowOffset: {
-          width: 0,
-          height: 2,
-        },
-        shadowOpacity: 0.2,
-        shadowRadius: 2,
-      },
-      android: {
-        elevation: 2,
-      },
-    }),
-    marginHorizontal: 1,
-    marginVertical: 10,
-    borderRadius: 5,
-  },
-  input: {
-    height: 40,
-    padding: 10,
-    borderRadius: 5,
-  },
-  noResultsView: {
-    justifyContent: 'center',
+  loadingIndicator: {
     alignItems: 'center',
-    marginTop: 20,
-  },
-  noResultsText: {
-    textAlign: 'center',
+    flex: 1,
+    justifyContent: 'center',
   },
 })
