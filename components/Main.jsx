@@ -7,13 +7,36 @@ import GamesInfo from './GamesInfo'
 import AnimatedGameCard from './GameCard'
 import GamesExcludedInfo from './GamesExcludedInfo'
 import GamesEmptyState from './GamesEmptyState'
+import AsyncStorage from '@react-native-async-storage/async-storage'
 
 export function Main() {
   const [games, setGames] = useState([])
   const [text, setText] = useState('')
 
   useEffect(() => {
-    getLatestGames().then((games) => setGames(games))
+    const loadGames = async () => {
+      try {
+        const data = await AsyncStorage.getItem('games')
+        const rawJson = data != null ? JSON.parse(data) : null
+
+        if (rawJson) {
+          setGames(rawJson)
+        } else {
+          try {
+            const games = await getLatestGames()
+            const gamesJsonValue = JSON.stringify(games)
+            await AsyncStorage.setItem('games', gamesJsonValue)
+            setGames(games)
+          } catch (e) {
+            console.error('There was an error fetching the latest games: ', e)
+          }
+        }
+      } catch (e) {
+        console.error('There was an error reading the data: ', e)
+      }
+    }
+
+    loadGames()
   }, [])
 
   function handleChangeText(text) {
