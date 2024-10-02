@@ -1,0 +1,3299 @@
+{
+  "data": {
+    "id": "bd7f7414-c71e-4c69-df31-cb5aa28d07ae",
+    "totalResults": 13417,
+    "items": [
+      {
+        "id": 1300001290,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "slug": "the-legend-of-zelda-ocarina-of-time",
+        "premiereYear": 1998,
+        "releaseDate": "1998-11-23",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-4763-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 876,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-4763-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-legend-of-zelda-ocarina-of-time/critic-reviews/",
+          "max": 100,
+          "score": 99,
+          "reviewCount": 22,
+          "positiveCount": 22,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "As a young boy, Link is tricked by Ganondorf, the King of the Gerudo Thieves. The evil human uses Link to gain access to the Sacred Realm, where he places his tainted hands on Triforce and transforms the beautiful Hyrulean landscape into a barren wasteland. Link is determined to fix the problems he helped to create, so with the help of Rauru he travels through time gathering the powers of the Seven Sages.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300001928,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "SoulCalibur",
+        "slug": "soulcalibur",
+        "premiereYear": 1999,
+        "releaseDate": "1999-09-08",
+        "rating": "T",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-7379-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 642,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-7379-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/soulcalibur/critic-reviews/",
+          "max": 100,
+          "score": 98,
+          "reviewCount": 24,
+          "positiveCount": 24,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "3D Fighting"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "This is a tale of souls and swords, transcending the world and all its history, told for all eternity... The greatest weapons-based fighter returns, this time on Sega Dreamcast. Soul Calibur unleashes incredible graphics, fantastic fighters, and combos so amazing they'll make your head spin!",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300027043,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Grand Theft Auto IV",
+        "slug": "grand-theft-auto-iv",
+        "premiereYear": 2008,
+        "releaseDate": "2008-04-29",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-76228-52.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 219,
+          "height": 300,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/12/6-1-76228-52.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/grand-theft-auto-iv/critic-reviews/",
+          "max": 100,
+          "score": 98,
+          "reviewCount": 86,
+          "positiveCount": 86,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "[Metacritic's 2008 Xbox 360 Game of the Year; Also known as \"GTA IV\"]  What does the American Dream mean today? For Niko Belic, fresh off the boat from Europe. It's the hope he can escape his past. For his cousin, Roman, it is the vision that together they can find fortune in Liberty City, gateway to the land of opportunity. As they slip into debt and are dragged into a criminal underworld by a series of shysters, thieves and sociopaths, they discover that the reality is very different from the dream in a city that worships money and status, and is heaven for those who have them an a living nightmare for those who don't. [Rockstar Games]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300019237,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Super Mario Galaxy",
+        "slug": "super-mario-galaxy",
+        "premiereYear": 2007,
+        "releaseDate": "2007-11-12",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-55597-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 900,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-55597-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/super-mario-galaxy/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 73,
+          "positiveCount": 73,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "3D Platformer"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "[Metacritic's 2007 Wii Game of the Year] The ultimate Nintendo hero is taking the ultimate step ... out into space. Join Mario as he ushers in a new era of video games, defying gravity across all the planets in the galaxy. When some creature escapes into space with Princess Peach, Mario gives chase, exploring bizarre planets all across the galaxy. Mario, Peach and enemies new and old are here. Players run, jump and battle enemies as they explore all the planets in the galaxy. Since this game makes full use of all the features of the Wii Remote, players have to do all kinds of things to succeed: pressing buttons, swinging the Wii Remote and the Nunchuk, and even pointing at and dragging things with the pointer. Since he's in space, Mario can perform mind-bending jumps unlike anything he's done before. He'll also have a wealth of new moves that are all based around tilting, pointing and shaking the Wii Remote. Shake, tilt and point! Mario takes advantage of all the unique aspects of the Wii Remote and Nunchuk controller, unleashing new moves as players shake the controller and even point at and drag items with the pointer. [Nintendo]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300044129,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Super Mario Galaxy 2",
+        "slug": "super-mario-galaxy-2",
+        "premiereYear": 2010,
+        "releaseDate": "2010-05-23",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-595362-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 899,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-595362-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/super-mario-galaxy-2/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 87,
+          "positiveCount": 87,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "3D Platformer"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Super Mario Galaxy 2, the sequel to the galaxy-hopping original game, includes the gravity-defying, physics-based exploration from the first game, but is loaded with entirely new galaxies and features to challenge players. On some stages, Mario can pair up with his dinosaur buddy Yoshi and use his tongue to grab items and spit them back at enemies. Players can also have fun with new items such as a drill that lets our hero tunnel through solid rock. [Nintendo]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300108776,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "slug": "the-legend-of-zelda-breath-of-the-wild",
+        "premiereYear": 2017,
+        "releaseDate": "2017-03-03",
+        "rating": "E10+",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-844837-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 1335,
+          "height": 2160,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-844837-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-legend-of-zelda-breath-of-the-wild/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 117,
+          "positiveCount": 106,
+          "neutralCount": 3,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Ignore everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild. Travel across fields, through forests and to mountain peaks as you discover what has become of the ruined kingdom of Hyrule in this stunning open-air adventure. Explore the wilds of Hyrule any way you like - Climb up towers and mountain peaks in search of new destinations, then set your own path to get there and plunge into the wilderness. Along the way, you'll battle towering enemies, hunt wild beasts and gather ingredients for the food and elixirs you'll need to sustain you on your journey. More than 100 Shrines of Trials to discover and explore - Shrines dot the landscape, waiting to be discovered in any order you want. Search for them in various ways, and solve a variety of puzzles inside. Work your way through the traps and devices inside to earn special items and other rewards that will help you on your adventure. Be prepared and properly equipped - With an entire world waiting to be explored, you'll need a variety of outfits and gear to reach every corner. You may need to bundle up with warmer clothes or change into something better suited to the desert heat. Some clothing even has special effects that, for example, can make you faster and stealthier. [Nintendo]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300001620,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Perfect Dark (2000)",
+        "slug": "perfect-dark-2000",
+        "premiereYear": 2000,
+        "releaseDate": "2000-05-22",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-6073-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 894,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-6073-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/perfect-dark-2000/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 30,
+          "positiveCount": 30,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "FPS"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Step into the Dark... As Carrington Institute's most promising new Agent, Joanna Dark must uncover the truth behind the dataDyne Corporation's recent technological breakthroughs - breakthroughs which could have serious consequences for mankind.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300003547,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Tony Hawk's Pro Skater 3",
+        "slug": "tony-hawks-pro-skater-3",
+        "premiereYear": 2001,
+        "releaseDate": "2001-10-30",
+        "rating": "T",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-13655-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 910,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-13655-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/tony-hawks-pro-skater-3/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 34,
+          "positiveCount": 33,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Skating"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Challenge up to four friends in online competitions over a LAN or the Internet.  Take them on in both Trick Attack and Graffiti modes. [Activision]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300461445,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Red Dead Redemption 2",
+        "slug": "red-dead-redemption-2",
+        "premiereYear": 2018,
+        "releaseDate": "2018-10-26",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-674478-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 801,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-674478-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption-2/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 109,
+          "positiveCount": 98,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Developed by the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is an epic tale of life in America’s unforgiving heartland. The game’s vast and atmospheric world also provides the foundation for a brand new online multiplayer experience. America, 1899. The end of the Wild West era has begun. After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang has to rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal fissures threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang that raised him. [Rockstar]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300110124,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Grand Theft Auto V",
+        "slug": "grand-theft-auto-v",
+        "premiereYear": 2014,
+        "releaseDate": "2014-11-18",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-675075-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 795,
+          "height": 1000,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-675075-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/grand-theft-auto-v/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 66,
+          "positiveCount": 66,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "The sprawling sun-soaked metropolis of Los Santos is chock full of self-help coaches, starlets and C-List celebrities, once on top of the media world, now struggling to stay relevant in time of economic malaise and lowest-common-denominator reality TV. Amidst this madness, three unique criminals plan their own chances of survival and success: Franklin, a street-level hustler in search of opportunities for serious money; Michael, an ex-con whose \"retirement\" is a less rosy than he hoped it would be; and Trevor, a violent dude driven by the chance for a quick high and the next big score. Nearly out of options, the crew risks it all in a series of daring and dangerous heists that could set them up for life - one way or the other.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300003153,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Metroid Prime",
+        "slug": "metroid-prime",
+        "premiereYear": 2002,
+        "releaseDate": "2002-11-17",
+        "rating": "T",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-12131-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 908,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-12131-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/metroid-prime/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 70,
+          "positiveCount": 70,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "FPS"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Samus returns in a new mission to unravel the mystery behind the ruined walls scattered across Tallon IV. In Metroid Prime, you'll play the role of this bounty hunter and view the world through her visor, which displays information ranging from current energy levels to ammunition. Equipped with a Power Beam and Gravity Suit, you must shoot locked switches, solve puzzles, and eliminate enemies. It's up to you to explore the world and recover more power-ups and weapons, which gradually open more gameplay areas.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300003300,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Grand Theft Auto III",
+        "slug": "grand-theft-auto-iii",
+        "premiereYear": 2001,
+        "releaseDate": "2001-10-22",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-12649-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 908,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-12649-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/grand-theft-auto-iii/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 56,
+          "positiveCount": 56,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Players are put at the heart of their very own gangster movie, and let loose in a fully-realised 3 dimensional city with a cast of hundreds, 50 plus vehicles, ranging from sports cars to ice cream trucks and from boats to buses, 3 hours of music, including opera, reggae, house, drum and bass, pop and disco, and a huge array of street ready weapons.  [Rockstar Games]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300461501,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Super Mario Odyssey",
+        "slug": "super-mario-odyssey",
+        "premiereYear": 2017,
+        "releaseDate": "2017-10-27",
+        "rating": "E10+",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-856470-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 1334,
+          "height": 2160,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-856470-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/super-mario-odyssey/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 123,
+          "positiveCount": 113,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "3D Platformer"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "New Evolution of Mario Sandbox-Style Gameplay. Mario embarks on a new journey through unknown worlds, running and jumping through huge 3D worlds in the first sandbox-style Mario game since Super Mario 64 and Super Mario Sunshine. Set sail between expansive worlds aboard an airship, and perform all-new actions, such as throwing Mario's cap.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300002761,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Halo: Combat Evolved",
+        "slug": "halo-combat-evolved",
+        "premiereYear": 2001,
+        "releaseDate": "2001-11-15",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-10563-52.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 219,
+          "height": 300,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/12/6-1-10563-52.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/halo-combat-evolved/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 68,
+          "positiveCount": 68,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "FPS"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "In a desperate attempt to keep a conquering alien race called the Covenant from finding Earth, you--a cybernteically enhanced soldier representing the peak of human military evolution--and a ragtag group of Marines flee to a distant uncharted system where you unexpectedly stumble across Halo, an enormous alien artifact in orbit between a gas giant and its moon. Your objective: Uncover Halo's horrible secret, and destroy mankind's nemesis - the Covenant. [Microsoft]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300002621,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "NFL 2K1",
+        "slug": "nfl-2k1",
+        "premiereYear": 2000,
+        "releaseDate": "2000-09-07",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-9973-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 637,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-9973-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/nfl-2k1/critic-reviews/",
+          "max": 100,
+          "score": 97,
+          "reviewCount": 22,
+          "positiveCount": 22,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Football Sim"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "In the end, NFL 2K1 is a deeper, more refined version of the original game.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300014896,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Half-Life 2",
+        "slug": "half-life-2",
+        "premiereYear": 2004,
+        "releaseDate": "2004-11-16",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-43965-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 908,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-43965-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/half-life-2/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 81,
+          "positiveCount": 81,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "FPS"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "[Metacritic's 2004 PC Game of the Year]  By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness, Half-Life 2 opens the door to a world where the player's presence affects everything around him, from the physical environment to the behaviors -- even the emotions -- of both friends and enemies. The player again picks up the crowbar of research scientist Gordon Freeman, who finds himself on an alien-infested Earth being picked to the bone, its resources depleted, its populace dwindling. Freeman is thrust into the unenviable role of rescuing the world from the wrong he unleashed back at Black Mesa. And a lot of people -- people he cares about -- are counting on him. [Vivendi Universal]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300022724,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "BioShock",
+        "slug": "bioshock",
+        "premiereYear": 2007,
+        "releaseDate": "2007-08-21",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-63862-52.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 219,
+          "height": 300,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/12/6-1-63862-52.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/bioshock/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 88,
+          "positiveCount": 88,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "FPS"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "[Metacritic's 2007 Xbox 360 Game of the Year] Going beyond \"run and gun corridors,\" \"monster-closet AIs\" and static worlds, BioShock creates a living, unique and unpredictable FPS experience. After your plane crashes into icy uncharted waters, you discover a rusted bathysphere and descend into Rapture, a city hidden beneath the sea. Constructed as an idealistic society for a hand picked group of scientists, artists and industrialists, the idealism is no more. Now the city is littered with corpses, wildly powerful guardians roam the corridors as little girls loot the dead, and genetically mutated citizens ambush you at every turn. Take control of your world by hacking mechanical devices, commandeering security turrets and crafting unique items critical to your very survival. Upgrade your weapons with ionic gels, explosives and toxins to customize them to the enemy and environment. Genetically modify your body through dozens of Plasmid Stations scattered throughout the city, empowering you with fantastic and often grotesque abilities. Explore a living world powered by Ecological A.I., where the inhabitants have interesting and consequential relationships with one another that impact your gameplay experience. Experience truly next generation graphics that vividly illustrate the forlorn art deco city, highlighted by the most detailed and realistic water effects ever developed in a video game. Make meaningful choices and mature decisions, ultimately culminating in the grand question: do you exploit the innocent survivors of Rapture...or save them? [2K Games]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300001067,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "GoldenEye 007",
+        "slug": "goldeneye-007",
+        "premiereYear": 1997,
+        "releaseDate": "1997-08-25",
+        "rating": "T",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-3971-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 500,
+          "height": 698,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-3971-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/goldeneye-007/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 21,
+          "positiveCount": 21,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "FPS"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "You are Bond. James Bond. You are assigned covert operations connected with the GoldenEye weapons satellite. M will brief you on your mission and objectives from London. Q Branch will support your efforts with a plentiful supply of weapons and gadgets. Moneypenny offers you light-hearted best wishes and you're off! Your mission begins in the heavily guarded chemical warfare facility at the Byelomorye Dam in the USSR. Look and shoot in any direction as you navigate 12 interactive 3-D environments. Use stealth and force as you see fit in matters of international security. Consider the military personnel expendable. You are licensed to kill!",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300041127,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Uncharted 2: Among Thieves",
+        "slug": "uncharted-2-among-thieves",
+        "premiereYear": 2009,
+        "releaseDate": "2009-10-13",
+        "rating": "T",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-106607-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 766,
+          "height": 882,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-106607-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/uncharted-2-among-thieves/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 105,
+          "positiveCount": 105,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Linear Action Adventure"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Fortune hunter Nathan Drake returns in Uncharted 2: Among Thieves, a third-person action-adventure/shooter created by award-winning developer Naughty Dog. Down on his luck, Drake is lured back into the treacherous world of thieves and mercenary treasure-seekers he had sought to leave behind. When a mysterious artifact propels Drake on an expedition to find the legendary Himalayan valley of Shambhala, he finds himself embroiled in a dangerous game of cat-and-mouse against a fugitive war criminal who’s after more than just the fabled riches of the lost city. Caught in a web of deception and plunged into an increasingly deadly pursuit that tests the limits of his endurance, Drake will be forced to risk everything - but has his luck finally run out? [SCEA]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300004020,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Resident Evil 4 (2005)",
+        "slug": "resident-evil-4-2005",
+        "premiereYear": 2005,
+        "releaseDate": "2005-01-11",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-15522-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 908,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-15522-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/resident-evil-4-2005/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 82,
+          "positiveCount": 82,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Survival"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Resident Evil 4 marks a new chapter in the Resident Evil series. You'll rejoin Leon S. Kennedy six years after his first mission as a rookie cop from Resident Evil 2. Now a US agent, Leon is on a top secret mission to investigate the disappearance of the president's daughter. As Leon, you must make your way to a mysterious location in Europe, where new enemies await. Take them down by using enhanced aim-and-shoot features and a new action button.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300501848,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Baldur's Gate 3",
+        "slug": "baldurs-gate-3",
+        "premiereYear": 2023,
+        "releaseDate": "2023-08-03",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "7-1695438055.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 258,
+          "height": 387,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/7/2/7-1695438055.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/baldurs-gate-3/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 119,
+          "positiveCount": 111,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Western RPG"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "An ancient evil has returned to Baldur's Gate, intent on devouring it from the inside out. The fate of Faerun lies in your hands. Alone, you may resist. But together, you can overcome. Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a mind flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300027871,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Orange Box",
+        "slug": "the-orange-box",
+        "premiereYear": 2007,
+        "releaseDate": "2007-10-10",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-78321-52.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 219,
+          "height": 300,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/12/6-1-78321-52.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-orange-box/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 54,
+          "positiveCount": 54,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Compilation"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Games included in The Orange Box compilation: The original Half-Life 2 - The player again picks up the crowbar of research scientist Gordon Freeman, who finds himself on an alien-infested Earth being picked to the bone, its resources depleted, its populace dwindling. Freeman is thrust into the unenviable role of rescuing the world from the wrong he unleashed back at Black Mesa. And a lot of people - people he cares about - are counting on him. Half-Life 2: Episode One - The player reprises his role of Dr. Freeman, who must immediately face the repercussions of his actions in City 17 and the Citadel. Freeman reconnects with Alyx Vance and her robot, Dog, as they continue their support of the resistance's battle against the Combine forces.  Half-Life 2: Episode Two -- the second installment in Valve's episodic trilogy advances the award-winning story, leading the player to new locations outside of City 17. Portal - a pioneering type of single player action game that rewrites the rules for how players approach and manipulate their environment – much like how Half-Life 2's Gravity Gun reinvented the way gamers interact with objects in the game. Team Fortress 2 - an all-new version of the legendary title that spawned team based multiplayer action games. The game's daring new art style features the most advanced graphics of any Source-based game released to date. [Valve Software]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300002069,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Tekken 3",
+        "slug": "tekken-3",
+        "premiereYear": 1998,
+        "releaseDate": "1998-04-29",
+        "rating": "T",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-7967-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 647,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-7967-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/tekken-3/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 15,
+          "positiveCount": 15,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "3D Fighting"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "An ancient evil force has reawakened, attacking in secret and feeding on the souls of mighty warriors. To lure it out of hiding will take the greatest fighting contest the world has ever seen...Tekken 3. Some are fighting for revenge, some for honor, Ultimately, all are fighting for their lives and the fate of all mankind.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300034514,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Mass Effect 2",
+        "slug": "mass-effect-2",
+        "premiereYear": 2010,
+        "releaseDate": "2010-01-26",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-657262-52.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 219,
+          "height": 300,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/12/6-1-657262-52.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/mass-effect-2/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 98,
+          "positiveCount": 98,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Western RPG"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "The Mass Effect trilogy is a science fiction adventure set in a vast universe filled with dangerous alien life forms and mysterious uncharted planets. In this dark second chapter, Saren’s evil army of Geth soldiers has just been defeated, and humans, who are still struggling to make their mark on the galactic stage, are now faced with an even greater peril. [BioWare]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300505387,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The House in Fata Morgana - Dreams of the Revenants Edition -",
+        "slug": "the-house-in-fata-morgana-dreams-of-the-revenants",
+        "premiereYear": 2021,
+        "releaseDate": "2021-04-09",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-737912-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 1174,
+          "height": 1887,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-737912-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-house-in-fata-morgana-dreams-of-the-revenants/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 10,
+          "positiveCount": 10,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Visual Novel"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "A gothic suspense tale set in a cursed mansion. ‘The House in Fata Morgana’ is a full-length visual novel spanning nearly a millennium that deals in tragedy, human nature, and insanity. This version includes three games and more:\r\n    1: The House in Fata Morgana: the main storyline.\r\n    2: A Requiem for Innocence: a prequel shedding light on the origins of Fata Morgana’s terrible curse.\r\n    3: Reincarnation: a sequel featuring the central cast members reincarnated in the present day. *The part including voices\r\n    4: Other additional short stories.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300501979,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Elden Ring",
+        "slug": "elden-ring",
+        "premiereYear": 2022,
+        "releaseDate": "2022-02-25",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-824862-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 932,
+          "height": 1316,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-824862-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/elden-ring/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 93,
+          "positiveCount": 86,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Action RPG"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "A New World Created By Hidetaka Miyazaki And George R. R. Martin\n\nELDEN RING, developed by FromSoftware, Inc. and BANDAI NAMCO Entertainment Inc., is a fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki creator of the influential DARK SOULS video game series; and George R.R. Martin author of The New York Times best-selling fantasy series, A Song of Ice and Fire. Danger and discovery lurk around every corner in FromSoftware's largest game to-date. \n\nHidetaka Miyazaki, President and Game Director of FromSoftware Inc. Known for directing critically-acclaimed games in beloved franchises including Armored Core, Dark Souls, and Sekiro: Shadows Die Twice. \n\nGeorge R.R. Martin is the #1 New York Times bestselling author of many novels, including the acclaimed series A Song of Ice and Fire - A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast For Crows, and A Dance with Dragons. As a writer-producer, he has worked on The Twilight Zone, Beauty and the Beast, and various feature films and pilots that were never made.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300093205,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Elder Scrolls V: Skyrim",
+        "slug": "the-elder-scrolls-v-skyrim",
+        "premiereYear": 2011,
+        "releaseDate": "2011-11-11",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-174672-52.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 219,
+          "height": 300,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/12/6-1-174672-52.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-elder-scrolls-v-skyrim/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 89,
+          "positiveCount": 89,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Western RPG"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "The next chapter in the Elder Scrolls saga arrives from the Bethesda Game Studios. Skyrim reimagines the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose. Play any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before. Skyrim's new game engine brings to life a complete virtual world with rolling clouds, rugged mountains, bustling cities, lush fields, and ancient dungeons. Choose from hundreds of weapons, spells, and abilities. The new character system allows you to play any way you want and define yourself through your actions. Battle ancient dragons like you've never seen. As Dragonborn, learn their secrets and harness their power for yourself.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300000064,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Half-Life",
+        "slug": "half-life",
+        "premiereYear": 1998,
+        "releaseDate": "1998-11-19",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-274-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 940,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-274-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/half-life/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 24,
+          "positiveCount": 24,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "FPS"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Half-Life combines great storytelling in the tradition of Stephen King with intense action and advanced technology to create a frighteningly realistic world where players need to think smart to survive. Half-Life has won more than 50 Game of the Year awards from publications around the world, and was named 'Best PC Game Ever' in PC Gamer's November 1999 issue. [Sierra]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300502074,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Legend of Zelda: Tears of the Kingdom",
+        "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+        "premiereYear": 2023,
+        "releaseDate": "2023-05-12",
+        "rating": "E10+",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-939061-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 1000,
+          "height": 1602,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-939061-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-legend-of-zelda-tears-of-the-kingdom/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 156,
+          "positiveCount": 145,
+          "neutralCount": 5,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda™: Tears of the Kingdom for Nintendo Switch™. The adventure is yours to create in a world fueled by your imagination. In this sequel to The Legend of Zelda: Breath of the Wild, you’ll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link’s new abilities to fight back against the malevolent forces that threaten the kingdom?",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300003368,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Legend of Zelda: The Wind Waker",
+        "slug": "the-legend-of-zelda-the-wind-waker",
+        "premiereYear": 2003,
+        "releaseDate": "2003-03-24",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-12911-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 909,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-12911-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-legend-of-zelda-the-wind-waker/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 80,
+          "positiveCount": 80,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "AN EVIL WIND IS RISING...\n\nLegend has it that whenever evil has appeared, a hero named Link has arisen to defeat it. The legend continues on the surface of a vast and mysterious sea as Link sets sail in his most epic, awe-inspiring adventure yet. Aided by a magical conductor's baton called the Wind Waker, he will face unimaginable monsters, explore puzzling dungeons, and meet a cast of unforgettable characters as he searches for his kidnapped sister.\n\n* Immerse yourself in a world unlike you've ever seen, as you sail across a vast, unexplored ocean.\n* Master a magical conductor's baton known as the Wind Waker to control the wind and much more! \n* Connect to a pal's Game Boy® Advance and play cooperatively -- get hints, uncover secrets, and get help in battle! \n* Use new items like the Grappling Hook and Deku Leaf to take the fight to spectacular, massive bosses. \n* Take on hordes of incredibly animated enemies as you search through riddle-filled dungeons.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300001072,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Gran Turismo",
+        "slug": "gran-turismo",
+        "premiereYear": 1998,
+        "releaseDate": "1998-05-12",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-3991-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 1455,
+          "height": 1468,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-3991-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/gran-turismo/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 16,
+          "positiveCount": 16,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Auto Racing Sim"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "With authentic cars, courses, and car physics, Gran Turismo 4 adds an even more realistic racing simulation to the series. The characteristics of each car take into account weight, speed, friction, and more to deliver realistic handling. Test-drive new vehicles in courses located in various sites, such as Nurburgring Nordschleife, New York City, the Grand Canyon, and Tsukuba Circuit. The PSP version of Gran Turismo 4 lets you race against your friends via wireless network.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300002563,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Metal Gear Solid 2: Sons of Liberty",
+        "slug": "metal-gear-solid-2-sons-of-liberty",
+        "premiereYear": 2001,
+        "releaseDate": "2001-11-12",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-9662-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 915,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-9662-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/metal-gear-solid-2-sons-of-liberty/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 42,
+          "positiveCount": 42,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Action Adventure"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Since the incident on Shadow Moses Island, Metal Gear's top-secret technology has been leaked into the black market through the machinations of Revolver Ocelot. As a result, countless variations of Metal Gears have sprung up in every corner of the globe, making the weapon an increasingly common component of the armed forces of nuclear powers. \r\nIn the midst of all of this, Solid Snake, now a member of the anti-Metal Gear group \"Philanthropy,\" has learned that a new prototype Metal Gear has been developed by the U.S. Marines and is being transported in secret to an unknown destination. To learn more about this new machine, Snake must infiltrate the transport, disguised as a tanker, as it makes its way down the Hudson River. Just as Snake is about to begin his mission, however, the ship is seized by a mysterious and well-armed group bent on stealing the new Metal Gear for their own, nefarious purposes. [Konami]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300003339,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Grand Theft Auto Double Pack",
+        "slug": "grand-theft-auto-double-pack",
+        "premiereYear": 2003,
+        "releaseDate": "2003-11-04",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-12784-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 626,
+          "height": 882,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-12784-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/grand-theft-auto-double-pack/critic-reviews/",
+          "max": 100,
+          "score": 96,
+          "reviewCount": 33,
+          "positiveCount": 33,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Compilation"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "From the dark and seedy streets of Liberty City's underworld to the glamorous hedonism of Vice City of the 1980s, the Grand Theft Auto double-pack takes you through the huge worlds of Grand Theft Auto III and it's sequel Vice City. The highly controversial Grand Theft Auto III gives you the freedom to go anywhere and jack anyone, putting the dark, intriguing and ruthless world of crime at your fingertips. Vice City is an entirely new game set in the '80s, preserving and adding to the free-roaming gameplay, cinematic graphics and immersive audio experience that made the Grand Theft Auto III so popular.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300563817,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Portal: Companion Collection",
+        "slug": "portal-companion-collection",
+        "premiereYear": 2022,
+        "releaseDate": "2022-06-28",
+        "rating": null,
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-852409-52.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 1920,
+          "height": 1080,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/12/6-1-852409-52.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/portal-companion-collection/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 10,
+          "positiveCount": 10,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Compilation"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Including Portal and Portal 2, the Companion Collection comes to Nintendo Switch with all the groundbreaking gameplay, dark humor, and exploration that earned the series hundreds of awards.\r\n\r\nIn Portal, you'll use a highly experimental portal device to solve physical puzzles and challenges. Maneuver objects--and yourself--through space to puzzle your way through the mysterious Aperture Science Laboratories.\r\n\r\nReturn to Aperture Laboratories in Portal 2 where you'll once again face off with the lethally inventive, power-mad A.I. named GLaDOS. Meet an expanded cast of characters as you think your way through dangerous, never-before-seen areas of the laboratories and a wider variety of portal puzzles. Plus Portal 2 also includes a co-operative game mode with local, split-screen and online multiplayer so you and a friend can think with portals.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300002731,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Baldur's Gate II: Shadows of Amn",
+        "slug": "baldurs-gate-ii-shadows-of-amn",
+        "premiereYear": 2000,
+        "releaseDate": "2000-09-24",
+        "rating": "T",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-687392-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 773,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-687392-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/baldurs-gate-ii-shadows-of-amn/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 30,
+          "positiveCount": 30,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Western RPG"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "An epic continuation of the story that began in \"Baldur's Gate,\" this RPG is set along the southern portion of the Sword Coast, a detailed and rich area of the Forgotten Realms called Amn. It features 300 spells and 130-plus monster types compared to only 130 spells and 60 monster types in Baldur's Gate. [Interplay]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300018488,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Grand Theft Auto: San Andreas",
+        "slug": "grand-theft-auto-san-andreas",
+        "premiereYear": 2004,
+        "releaseDate": "2004-10-26",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-53856-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 908,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-53856-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/grand-theft-auto-san-andreas/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 80,
+          "positiveCount": 79,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "[Metacritic's 2004 PS2 Game of the Year]  Five years ago Carl Johnson escaped from the pressures of life in Los Santos, San Andreas... a city tearing itself apart with gang trouble, drugs and corruption. Where filmstars and millionaires do their best to avoid the dealers and gangbangers. Now, it's the early 90s. Carl's got to go home. His mother has been murdered, his family has fallen apart and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of corrupt cops frame him for homicide. CJ is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets. [Rockstar]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300004716,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Grand Theft Auto: Vice City",
+        "slug": "grand-theft-auto-vice-city",
+        "premiereYear": 2002,
+        "releaseDate": "2002-10-29",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-18290-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 908,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-18290-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/grand-theft-auto-vice-city/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 62,
+          "positiveCount": 62,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "[Metacritic's 2002 PS2 Game of the Year ] Welcome to Vice City. Welcome to the 1980s. Having just made it back onto the streets of Liberty City after a long stretch in maximum security, Tommy Vercetti is sent to Vice City by his old boss, Sonny Forelli. They were understandably nervous about his re-appearance in Liberty City, so a trip down south seemed like a good idea. But all does not go smoothly upon his arrival in the glamorous, hedonistic metropolis of Vice City. He's set up and is left with no money and no merchandise. Sonny wants his money back, but the biker gangs, Cuban gangsters, and corrupt politicians stand in his way. Most of Vice City seems to want Tommy dead. His only answer is to fight back and take over the city himself. Vice City offers vehicular pleasures to suit every taste. For the speed enthusiast, there's high-performance cars and motorbikes. For the sportsman, a powerboat or a golf buggy lets you enjoy the great outdoors. For those that need that sense of freedom and escape, why not charter a helicopter and see the beauty of Vice City from the air? [Rockstar]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300030468,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "LittleBigPlanet",
+        "slug": "littlebigplanet",
+        "premiereYear": 2008,
+        "releaseDate": "2008-10-27",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-84288-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 736,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-84288-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/littlebigplanet/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 85,
+          "positiveCount": 85,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "2D Platformer"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "In LittleBigPlanet Players meet on a blue and green planet scattered with individual plots – and use their character's amazing abilities to play, create and share what they build with other gamers throughout the world via the Playstation Network. The LittleBigPlanet experience starts with players learning about their character’s powers to interact physically with the environment. There are places to explore, creative resources to collect and puzzles to solve – all requiring a combination of brains and collaborative teamwork. As soon as players begin their creative skills will grow and they will soon be ready to start creating and modifying their surroundings – the first step to sharing them with the whole community.Characters have the power to move anything in this glued and stitched-together 3D landscape; they have the power to design, shape and build both objects and entire locations for others to view and play. There’s no complicated level editor; all of these skills can be learned by simply playing the game. Creativity is part of the gameplay experience and playing is part of the creative experience. Players can make their world as open or as secretive to explore as they like. When it’s ready, they can invite anyone within the LittleBigPlanet community to come and explore their patch – or can go and explore everybody else's. [SCEA]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300020184,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Legend of Zelda Collector's Edition",
+        "slug": "the-legend-of-zelda-collectors-edition",
+        "premiereYear": 2003,
+        "releaseDate": "2003-11-17",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-57792-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 909,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-57792-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-legend-of-zelda-collectors-edition/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 8,
+          "positiveCount": 8,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Compilation"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "The greatest legend in gaming! The ultimate Zelda collection!\r\n\r\n- The Legend of Zelda: Play the game that launched the legend! With an innovative and unique game-play system, remarkably deep puzzle solving, and an epic score, the appeal of this groundbreaking classic is still going strong.\r\n\r\n- Zelda II - The Adventure of Link: While adhering to the majestic and puzzle-solving elements of the Legend of Zelda, the second game in the series expands on the action sequences and introduces a new magic system, pushing the series in a new direction.\r\n\r\n- The Legend of Zelda: Ocarina of Time: Zelda moved into three dimensions with gorgeous cinematics, hordes of hostile enemies, the revolutionary targeting system, and the freedom of traveling on horseback. Ocarina of Time leaves all who play it breathless and impressed.\r\n\r\n- The Legend of Zelda: Majora's Mask: The series again takes a dramatic turn from tradition as Link wanders into a three-day journey in a mysterious parallel world. Majora's Mask challenges players to don magical masks and save a town threatened to be crushed under a menacing moon.\r\n\r\nIncludes Playable Demo for The Legend of Zelda: The Wind Waker!",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300001074,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Gran Turismo 3: A-Spec",
+        "slug": "gran-turismo-3-a-spec",
+        "premiereYear": 2001,
+        "releaseDate": "2001-07-09",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-4024-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 908,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-4024-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/gran-turismo-3-a-spec/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 54,
+          "positiveCount": 53,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Auto Racing Sim"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "With the addition of two new courses (a downtown Tokyo circuit and the Monte Carlo Grand Prix course), an impressive range of cars (from Vipers to Cooper Minis), and a soundtrack featuring everything from Lenny Kravitz to Jimi Hendrix, this highly anticipated title is finally ready to be driven.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300004893,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Halo 2",
+        "slug": "halo-2",
+        "premiereYear": 2004,
+        "releaseDate": "2004-11-09",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-18997-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 1549,
+          "height": 2160,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-18997-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/halo-2/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 91,
+          "positiveCount": 89,
+          "neutralCount": 2,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "FPS"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "The Covenant alien race threatens to destroy all humankind, and the only thing standing in its way is Master Chief, a genetically enhanced supersoldier. Master Chief returns in Halo 2, which features new vehicles, weapons, environments, and more. This time, you can interact with your environment, wield two weapons at the same time, board opponents' vehicles, and even switch sides to play the role of a Covenant Elite. Halo 2 also supports broadband multiplayer action via Xbox Live. ",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300563786,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Legend of Zelda: A Link to the Past / Four Swords",
+        "slug": "the-legend-of-zelda-a-link-to-the-past-four-swords",
+        "premiereYear": 2002,
+        "releaseDate": "2002-12-03",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-18316-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 640,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-18316-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-legend-of-zelda-a-link-to-the-past-four-swords/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 30,
+          "positiveCount": 29,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Now you have a link to one of the greatest adventures in The Legend of Zelda series.  The Legend of Zelda: A Link to the Past revives the classic SNES game on the Game Boy Advance and adds a new multiplayer mode.  In a Link to the Past, Link travels between the light world and the dark world, conquering fierce monsters and uncovering Hyrule's deepest secrets along the way.  Also included is Four Swords, which lets you play with up to three other players, slashing through dungeons and collecting rupees.  Whether you choose solo or competitive play, The Legend of Zelda will keep you occupied with its brain-bending puzzles and fun swashbuckling action.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300001289,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Legend of Zelda: Majora's Mask",
+        "slug": "the-legend-of-zelda-majoras-mask",
+        "premiereYear": 2000,
+        "releaseDate": "2000-10-25",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-4758-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 901,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-4758-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-legend-of-zelda-majoras-mask/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 27,
+          "positiveCount": 27,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Thrown into a parallel world by the mischievous actions of a possessed Skull Kid, Link finds a land in grave danger. The dark power of a relic called Majora's Mask has wreaked havoc on the citizens of Termina, but their most urgent problem is a suicidal moon crashing toward the world. Link has only 72 hours to find a way to stop its descent.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300126883,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Last of Us",
+        "slug": "the-last-of-us",
+        "premiereYear": 2013,
+        "releaseDate": "2013-06-14",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-849312-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 880,
+          "height": 1047,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-849312-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-last-of-us/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 98,
+          "positiveCount": 97,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Linear Action Adventure"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Twenty years after a pandemic radically transformed known civilization, infected humans run amuck and survivors kill one another for sustenance and weapons - literally whatever they can get their hands on. Joel, a salty survivor, is hired to smuggle a fourteen-year-old girl, Ellie, out of a rough military quarantine, but what begins as a simple job quickly turns into a brutal journey across the country.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300020987,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Legend of Zelda: Twilight Princess",
+        "slug": "the-legend-of-zelda-twilight-princess",
+        "premiereYear": 2006,
+        "releaseDate": "2006-11-19",
+        "rating": "T",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-60566-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 912,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-60566-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-legend-of-zelda-twilight-princess/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 73,
+          "positiveCount": 73,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "When an evil darkness enshrouds the land of Hyrule, a young farm boy named Link must awaken the hero - and the animal - within. When Link travels to the Twilight Realm, he transforms into a wolf and must scour the land with the help of a mysterious girl named Midna. Using the power and unique control of the Wii console, The Legend of Zelda: Twilight Princess features precise aiming control using the Wii Remote. The Wii Remote and the Nunchuk controller are used for a variety of game activities, including fishing and special sword attacks. Players ride into battle against troops of foul creatures using an amazing horseback combat system, then take on massive bosses that must be seen to be believed. [Nintendo]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300004238,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Madden NFL 2003",
+        "slug": "madden-nfl-2003",
+        "premiereYear": 2002,
+        "releaseDate": "2002-08-12",
+        "rating": "E",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-16291-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 640,
+          "height": 908,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-16291-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/madden-nfl-2003/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 25,
+          "positiveCount": 25,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Football Sim"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Take Your Game Online: Access an online community where you can meet, chat, and play head-to-head against other gamers. Audio Dream Team: Dynamic play-by-play and analysis by Madden and Michaels. All-New Mini-camp: Hop on John Madden's Cruiser Tour Bus and travel to all NFL cities to complete skilled tasks. Create-A-Playbook: Customize receiver routes, player formations, and your team's entire playbook. Deepest Franchise Mode Ever: Play 30 years of Franchise mode and draft players each season with tips from your scouts. [EA Sports]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300498869,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Persona 5 Royal",
+        "slug": "persona-5-royal",
+        "premiereYear": 2020,
+        "releaseDate": "2020-03-31",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-758783-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 700,
+          "height": 871,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-758783-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/persona-5-royal/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 74,
+          "positiveCount": 70,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "JRPG"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Prepare for an all-new RPG experience in Persona 5 Royal based in the universe of the award-winning series, Persona! Don the mask of Joker and join the Phantom Thieves of Hearts. Break free from the chains of modern society and stage grand heists to infiltrate the minds of the corrupt and make them change their ways! Persona 5 Royal is packed with new characters, confidants, story depth, new locations to explore, and a new grappling hook mechanic for stealthy access to new areas. With a new semester at Shujin Academy, get ready to strengthen your abilities in the metaverse and in your daily life. Persona 5 Royal presents a unique visual style and award nominated composer Shoji Meguro returns with an all-new soundtrack. Explore Tokyo, unlock new Personas, customize your own personal Thieves Den, discover a never-before-seen story arc, cutscenes, alternate endings, and more! Even for the most seasoned Phantom Thieves among us, Persona 5 Royal is a new challenge to defy conventions, discover the power within, and fight for justice. Wear the mask. Reveal your truth.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300266160,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "The Last of Us Remastered",
+        "slug": "the-last-of-us-remastered",
+        "premiereYear": 2014,
+        "releaseDate": "2014-07-29",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-378812-13.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 1525,
+          "height": 1904,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/3/6-1-378812-13.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/the-last-of-us-remastered/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 70,
+          "positiveCount": 69,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Linear Action Adventure"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "The Last of Us has been rebuilt for the PlayStation4 system. Now featuring full 1080p, higher resolution character models, improved shadows and lighting, in addition to several other gameplay improvements. 20 years after a pandemic has radically changed known civilization, infected humans run wild and survivors are killing each other for food, weapons; whatever they can get their hands on. Joel, a violent survivor, is hired to smuggle a 14 year-old girl, Ellie, out of an oppressive military quarantine zone, but what starts as a small job soon transforms into a brutal journey across the U.S. The Last of Us Remastered includes the Abandoned Territories Map Pack, Reclaimed Territories Map Pack, and the critically acclaimed The Last of Us: Left Behind Single Player campaign that combines themes of survival, loyalty, and love with tense, survival-action gameplay.\r\n\r\nRemastered Features:\r\n-Explore a brutal post-pandemic world, fully realized with the power of PlayStation4 system\r\n-Includes additional game content: over $30 in value\r\n-Delve into Ellies past in Left Behind, the single-player prequel chapter\r\n-Eight new multiplayer maps in the Abandoned and Reclaimed Territories packs\r\n-In-game cinematic commentary from the cast and creative director",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300042524,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Red Dead Redemption",
+        "slug": "red-dead-redemption",
+        "premiereYear": 2010,
+        "releaseDate": "2010-05-18",
+        "rating": "M",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-109215-52.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 219,
+          "height": 300,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/12/6-1-109215-52.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/red-dead-redemption/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 96,
+          "positiveCount": 96,
+          "neutralCount": 0,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "Open-World Action"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Developed by Rockstar San Diego, as a follow up to the 2004 hit game Red Dead Revolver, Red Dead Redemption is a Western epic, set at the turn of the 20th century when the lawless and chaotic badlands began to give way to the expanding reach of government and the spread of the Industrial Age.  The story of former outlaw, John Marston, Red Dead Redemption takes players on a great adventure across the American frontier. Utilizing Rockstar's proprietary Rockstar Advanced Game Engine (RAGE), Red Dead Redemption features an open-world environment for players to explore, including frontier towns, rolling prairies teeming with wildlife, and perilous mountain passes - each packed with an endless flow of varied distractions. Along the way, players experience the heat of gunfights and battles, meet a host of unique characters, struggle against the harshness of one of the world’s last remaining wildernesses, and ultimately pick their own precarious path through an epic story about the death of the Wild West and the gunslingers that inhabited it. [Rockstar Games]",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      },
+      {
+        "id": 1300071258,
+        "type": "game-title",
+        "typeId": 13,
+        "title": "Portal 2",
+        "slug": "portal-2",
+        "premiereYear": 2011,
+        "releaseDate": "2011-04-19",
+        "rating": "E10+",
+        "seoUrl": null,
+        "image": {
+          "id": null,
+          "filename": "6-1-146293-52.jpg",
+          "dateCreated": {
+            "date": null,
+            "timezone": null
+          },
+          "alt": null,
+          "credits": null,
+          "path": null,
+          "cropGravity": null,
+          "crop": null,
+          "caption": null,
+          "typeName": null,
+          "imageUrl": null,
+          "width": 219,
+          "height": 300,
+          "sType": null,
+          "bucketType": "catalog",
+          "bucketPath": "/provider/6/12/6-1-146293-52.jpg",
+          "mediaType": null,
+          "provider": null
+        },
+        "criticScoreSummary": {
+          "url": "/game/portal-2/critic-reviews/",
+          "max": 100,
+          "score": 95,
+          "reviewCount": 66,
+          "positiveCount": 65,
+          "neutralCount": 1,
+          "negativeCount": 0,
+          "sentiment": "Universal acclaim"
+        },
+        "genres": [
+          {
+            "id": null,
+            "name": "FPS"
+          }
+        ],
+        "numberOfSeasons": 0,
+        "network": null,
+        "description": "Valve is working on a full-length sequel to its award-winning, mind-bending puzzle action game for the Xbox 360 and PC.",
+        "duration": 0,
+        "streamingDates": {
+          "videoClosestPastAvailableDate": null,
+          "videoClosestFutureAvailableDate": null,
+          "videoClosestPastExpiryDate": null,
+          "videoClosestFutureExpiryDate": null,
+          "videoClosestPastAvailableNetworkId": null,
+          "videoClosestFutureAvailableNetworkId": null,
+          "videoClosestPastExpiryNetworkId": null,
+          "videoClosestFutureExpiryNetworkId": null,
+          "networkStreamingDates": null
+        }
+      }
+    ],
+    "genres": null,
+    "network": null
+  },
+  "links": {
+    "self": {
+      "href": "https://internal-prod.apigee.fandom.net/v1/xapi/finder/metacritic/web?sortBy=-metaScore&productType=games&page=1&releaseYearMin=1958&releaseYearMax=2024&offset=0&limit=50&apiKey=1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u",
+      "meta": {
+        "pageNum": 1,
+        "count": 50
+      }
+    },
+    "prev": {
+      "href": null,
+      "meta": null
+    },
+    "next": {
+      "href": "https://internal-prod.apigee.fandom.net/v1/xapi/finder/metacritic/web?sortBy=-metaScore&productType=games&page=1&releaseYearMin=1958&releaseYearMax=2024&offset=50&limit=50&apiKey=1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u",
+      "meta": {
+        "pageNum": 2,
+        "count": 50
+      }
+    },
+    "first": {
+      "href": "https://internal-prod.apigee.fandom.net/v1/xapi/finder/metacritic/web?sortBy=-metaScore&productType=games&page=1&releaseYearMin=1958&releaseYearMax=2024&offset=0&limit=50&apiKey=1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u",
+      "meta": {
+        "pageNum": 1,
+        "count": 50
+      }
+    },
+    "last": {
+      "href": "https://internal-prod.apigee.fandom.net/v1/xapi/finder/metacritic/web?sortBy=-metaScore&productType=games&page=1&releaseYearMin=1958&releaseYearMax=2024&offset=13400&limit=50&apiKey=1MOZgmNFxvmljaQR1X9KAij9Mo4xAY3u",
+      "meta": {
+        "pageNum": 269,
+        "count": 17
+      }
+    }
+  },
+  "meta": {
+    "componentName": null,
+    "componentDisplayName": null,
+    "componentType": null
+  }
+}
