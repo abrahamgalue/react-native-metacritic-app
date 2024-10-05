@@ -8,6 +8,9 @@ import AnimatedGameCard from './GameCard'
 import GamesExcludedInfo from './GamesExcludedInfo'
 import GamesEmptyState from './GamesEmptyState'
 import AsyncStorage from '@react-native-async-storage/async-storage'
+import * as SplashScreen from 'expo-splash-screen'
+
+SplashScreen.preventAutoHideAsync()
 
 export function Main() {
   const [games, setGames] = useState([])
@@ -33,6 +36,8 @@ export function Main() {
         }
       } catch (e) {
         console.error('There was an error reading the data: ', e)
+      } finally {
+        setTimeout(() => SplashScreen.hideAsync(), 1300)
       }
     }
 
