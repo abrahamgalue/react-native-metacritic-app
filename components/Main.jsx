@@ -1,3 +1,4 @@
+import { SplashScreen } from 'expo-router'
 import { useState, useEffect } from 'react'
 import { getLatestGames } from '../lib/metacritic'
 import { Screen } from './Screen'
@@ -8,7 +9,6 @@ import AnimatedGameCard from './GameCard'
 import GamesExcludedInfo from './GamesExcludedInfo'
 import GamesEmptyState from './GamesEmptyState'
 import AsyncStorage from '@react-native-async-storage/async-storage'
-import * as SplashScreen from 'expo-splash-screen'
 
 SplashScreen.preventAutoHideAsync()
 
