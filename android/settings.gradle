@@ -44,7 +44,7 @@ if (getRNMinorVersion() >= 75) {
   }
 }
 
-rootProject.name = 'metacritic-app'
+rootProject.name = 'Metacritic App'
 
 dependencyResolutionManagement {
   versionCatalogs {
