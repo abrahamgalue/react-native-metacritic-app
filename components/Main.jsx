@@ -1,4 +1,3 @@
-import { SplashScreen } from 'expo-router'
 import { useState, useEffect } from 'react'
 import { getLatestGames } from '../lib/metacritic'
 import { Screen } from './Screen'
@@ -9,8 +8,6 @@ import AnimatedGameCard from './GameCard'
 import GamesExcludedInfo from './GamesExcludedInfo'
 import GamesEmptyState from './GamesEmptyState'
 import AsyncStorage from '@react-native-async-storage/async-storage'
-
-SplashScreen.preventAutoHideAsync()
 
 export function Main() {
   const [games, setGames] = useState([])
@@ -36,8 +33,6 @@ export function Main() {
         }
       } catch (e) {
         console.error('There was an error reading the data: ', e)
-      } finally {
-        setTimeout(() => SplashScreen.hideAsync(), 1300)
       }
     }
 
