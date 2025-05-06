@@ -7,7 +7,7 @@ function GamesSearch({ onChangeText }) {
   return (
     <View style={styles.inputView}>
       <TextInput
-        className={'bg-white dark:bg-black dark:text-white'}
+        className={'bg-white text-black dark:bg-black dark:text-white'}
         cursorColor={'#ffbd40'}
         onChangeText={onChangeText}
         placeholder="Breath Of The Wild, Super Mario Odyssey..."
