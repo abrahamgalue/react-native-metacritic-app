@@ -2,24 +2,25 @@
   "expo": {
     "name": "Metacritic App",
     "slug": "metacritic-app",
+    "scheme": "metacritic",
     "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "scheme": "metacritic",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
     "splash": {
+      "backgroundColor": "#ffffff",
       "image": "./assets/splash.png",
-      "resizeMode": "cover",
-      "backgroundColor": "#111111"
+      "dark": {
+        "backgroundColor": "#111111",
+        "image": "./assets/splash.png"
+				},
+				"imageWidth": 200
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
       "package": "com.abrahamgalue.metacriticapp"
     },
     "web": {
@@ -30,12 +31,8 @@
         "projectId": "91eca20b-5915-4d59-b546-59d225afbb39"
       }
     },
-    "androidStatusBar": {
-      "backgroundColor": "#00000000"
-    },
     "plugins": [
-      ["expo-router"],
-      ["./utils/transforms/withAndroidSplashScreen.ts"]
+      ["expo-router"]
     ]
   }
 }
