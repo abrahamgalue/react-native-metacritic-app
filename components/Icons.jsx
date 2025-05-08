@@ -17,3 +17,7 @@ export const LightModeIcon = (props) => {
 export const DarkModeIcon = (props) => {
   return <MaterialIcons name="dark-mode" size={24} color="black" {...props} />
 }
+
+export const SearchIcon = (props) => {
+  return <MaterialIcons name="search" size={24} color="black" {...props} />
+}
